@@ -1,0 +1,2 @@
+Make a box that Wraps around a tube of the bike! Has bolts in the inside inaccessible once closed. Contains a Lock to open, even a "digital lock" that uses NFC to open & requires electricity. Have 2 terminals for "backup power" to unlock when the internal battery is ruined.
+Has a Solar Panel and supercapacity for power! Battery optional for night time tracking. Has the tracking GPS device & tranmitter inside it!
